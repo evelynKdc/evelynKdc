@@ -3,7 +3,8 @@
 
 - 🌱 Estoy aprendiendo actualmente **Node.js**
 
-- 📫 Como encontrarme **evelyndc_10@hotmail.com**
+- 📧 Como encontrarme **evelyndc_10@hotmail.com**
+- 🐱‍💻 Actualmente realizo el proyecto **https://to-do-x.netlify.app/**
 
 <h3 align="left">Conecta conmigo:</h3>
 <div align="center">
