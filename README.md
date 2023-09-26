@@ -1,22 +1,15 @@
-# Hello, I'm Evelyn De la Cruz Vargas! 👋
+![Fondo de perfil](https://media.licdn.com/dms/image/D4E16AQGvi7oQOn2MtA/profile-displaybackgroundimage-shrink_350_1400/0/1677688934240?e=1701302400&v=beta&t=7vxRTwtzYqzY-pQzU7I2s2PhWf4n0m7C9gLdy-y4ebA)
 
-I'm a technology enthusiast who thrives on challenges and is always eager to embrace new experiences. I have an insatiable appetite for learning and a passion for innovation. Currently, my focus is on web development, where I'm diving deep into the exciting world of the MERN stack. However, my journey in the world of programming began with Java, and I continue to actively engage in Java projects to this day.
-
-## About Me
-
-- 🧑‍💻 **Enthusiastic Developer:** I find immense joy in solving complex problems and creating innovative solutions through code.
-- 📚 **Lifelong Learner:** My curiosity knows no bounds, and I'm constantly seeking out new knowledge and skills to stay at the forefront of technology.
-- 💡 **Innovator:** I thrive on the opportunity to pioneer new ideas and turn them into tangible creations.
-- 🚀 **Personal Projects:** During my free time, I immerse myself in exhilarating personal projects that mirror my interests and passions.
-- 🌐 **Collaboration:** I relish the opportunity to collaborate with fellow developers and lend my expertise to open-source initiatives that benefit the broader community.
+# Hey there!👋
+I'm a tech enthusiast who thrives on challenges and has an insatiable appetite for learning. My passion lies in innovation, and I'm currently delving into web development with a focus on the MERN stack. My programming journey began with Java, and I continue to actively engage in Java projects to this day
 
 ## Education
 
-- 📚 **Currently Pursuing:** I'm currently pursuing a degree in Software Engineering at the Technological University of Peru, and I'm in the seventh semester of my program.
+- 📚 **Software Engineering Degree (In Progress):** I'm currently pursuing a Software Engineering degree at the Technological University of Peru, currently in the seventh semester.
 
-- 🎓 **Launch X LATAM:** In 2022, I successfully completed a practical training program powered by Microsoft and centered around Virtual Innovation. This transformative program was specifically crafted for individuals who share a profound passion for technology, with the ultimate goal of molding them into full-stack developers, specializing in the MERN stack.
+- 🎓 **Launch X LATAM (2022):** I completed a Microsoft-powered practical training program in 2022, focused on Virtual Innovation. This program aimed to transform technology enthusiasts into full-stack developers, specializing in the MERN stack.
 
-- 📖 **Oracle Next Education:** Currently, I'm enrolled in Oracle's Next Education program, specializing in Spring-based backend development. This program, supported by Oracle, aims to nurture tech talent and bridge the industry's skills gap. Oracle Next Education stands out thanks to Oracle's direct involvement in content selection and the exclusive job opportunities it provides to graduates with partner companies and beyond.
+- 📖 **Oracle Next Education:** Currently enrolled in Oracle's Next Education program, specializing in Spring-based backend development. Supported by Oracle, it nurtures tech talent, closes industry skill gaps, and offers exclusive job opportunities with partner companies and beyond.
 
 
 ## Technologies I Love
@@ -37,7 +30,9 @@ I'm excited to connect with potential collaborators and employers. You can reach
   [![LinkedIn](	https://img.shields.io/badge/Evelyn_De_la_cruz_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-nombre/](https://www.linkedin.com/in/evelyn-de-la-cruz-vargas/))
 [![GitHub](https://img.shields.io/badge/evelynKdc-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evelynKdc)
 [![Discord](https://img.shields.io/badge/evelyndc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/evelyndc)
-
+</div>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=evelynKdc&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 </div>
-Let's embark on this exciting journey together, where I can bring my passion for technology, love for challenges, and commitment to innovation to help shape the future of our projects and endeavors.
