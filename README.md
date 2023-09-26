@@ -27,7 +27,7 @@ I'm excited to connect with potential collaborators and employers. You can reach
 - 📧 Email: [evelyndc_10@hotmail.com](evelyndc_10@hotmail.com)
 <div align="center">
 
-  [![LinkedIn](	https://img.shields.io/badge/Evelyn_De_la_cruz_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-nombre/](https://www.linkedin.com/in/evelyn-de-la-cruz-vargas/))
+[![LinkedIn](	https://img.shields.io/badge/Evelyn_De_la_cruz_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-de-la-cruz-vargas/)
 [![GitHub](https://img.shields.io/badge/evelynKdc-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evelynKdc)
 [![Discord](https://img.shields.io/badge/evelyndc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/evelyndc)
 </div>
