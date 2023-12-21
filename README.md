@@ -1,4 +1,4 @@
-![Fondo de perfil](https://media.licdn.com/dms/image/D4E16AQGvi7oQOn2MtA/profile-displaybackgroundimage-shrink_350_1400/0/1677688934240?e=1701302400&v=beta&t=7vxRTwtzYqzY-pQzU7I2s2PhWf4n0m7C9gLdy-y4ebA)
+![Fondo de perfil](https://media.licdn.com/dms/image/D4E16AQGvi7oQOn2MtA/profile-displaybackgroundimage-shrink_350_1400/0/1677688935453?e=1708560000&v=beta&t=EVzauGAfvs04AJgdQ5d3INFCyCOjkGyICrxqkz0colY)
 
 # Hey there!👋
 I'm a tech enthusiast who thrives on challenges and has an insatiable appetite for learning. My passion lies in innovation, and I'm currently delving into web development with a focus on the MERN stack. My programming journey began with Java, and I continue to actively engage in Java projects to this day
