@@ -1,4 +1,4 @@
-![Fondo de perfil](https://media.licdn.com/dms/image/D4E16AQGvi7oQOn2MtA/profile-displaybackgroundimage-shrink_350_1400/0/1677688935453?e=1708560000&v=beta&t=EVzauGAfvs04AJgdQ5d3INFCyCOjkGyICrxqkz0colY)
+![Fondo de perfil](https://i.imgur.com/iCxqrch.png)
 
 # Hey there!👋
 I'm a tech enthusiast who thrives on challenges and has an insatiable appetite for learning. My passion lies in innovation, and I'm currently delving into web development with a focus on the MERN stack. My programming journey began with Java, and I continue to actively engage in Java projects to this day
@@ -31,8 +31,4 @@ I'm excited to connect with potential collaborators and employers. You can reach
 [![GitHub](https://img.shields.io/badge/evelynKdc-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evelynKdc)
 [![Discord](https://img.shields.io/badge/evelyndc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/evelyndc)
 </div>
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=evelynKdc&theme=discord-old-blurple)](https://git.io/streak-stats)
 
-</div>
